@@ -144,7 +144,7 @@
         <RouterLink to="/login">
           <Button
           link 
-            label="Go login >_<' สวัสดีคราฟผลชื่อดีแม็คไม่มีปัญหา CCCCCCC จริงรึ จริงรึ จริงรึ โม้รึป่าว"
+            label="Go login >_<' สวัสดีคราฟผลชื่อดีแม็คไม่มีปัญหา CCCCCCC จริงรึ จริงรึ จริงรึ โม้รึป่าว 55555"
             severity="warn"
             variant="text"
             size="small"
