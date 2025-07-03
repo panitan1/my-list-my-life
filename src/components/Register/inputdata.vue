@@ -144,7 +144,7 @@
         <RouterLink to="/login">
           <Button
           link 
-            label="Go login >_<' สวัสดีคราฟผลชื่อดีแม็คไม่มีปัญหา "
+            label="Go login >_<' สวัสดีคราฟผลชื่อดีแม็คไม่มีปัญหา CCCCCCC จริงรึ จริงรึ จริงรึ โม้รึป่าว"
             severity="warn"
             variant="text"
             size="small"
@@ -163,6 +163,7 @@ import Message from "primevue/message";
 import { Form } from "@primevue/forms";
 import { ref } from "vue";
 import { zodResolver } from "@primevue/forms/resolvers/zod";
+
 import { useToast } from "primevue";
 import { z } from "zod";
 
