@@ -144,7 +144,7 @@
         <RouterLink to="/login">
           <Button
           link 
-            label="Go login >_<' "
+            label="Go login >_<'CCCCC "
             severity="warn"
             variant="text"
             size="small"
