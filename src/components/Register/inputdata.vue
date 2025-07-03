@@ -144,7 +144,7 @@
         <RouterLink to="/login">
           <Button
           link 
-            label="Go login >_<' "
+            label="Go login >_<' สวัสดีคราฟผลชื่อดีแม็คไม่มีปัญหา "
             severity="warn"
             variant="text"
             size="small"
